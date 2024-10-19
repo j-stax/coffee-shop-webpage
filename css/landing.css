@@ -1,0 +1,44 @@
+header, .section_hero, footer {
+    background-color: #FFF0ED;
+}
+
+.icons {
+    width: 50px;
+}
+
+nav h2 a {
+    text-decoration: none;
+    font-size: 33px;
+    font-weight: 300;
+}
+
+.product_images {
+    height: 280px;
+}
+
+button {
+    background-color: #5BACC3;
+    color: #FFF;
+    border: none;
+    font-size: 21px;
+    font-weight: 400;
+}
+
+.product_prices {
+    color: #5BACC3;
+    font-size: 33px;
+}
+
+#discount-text {
+    font-size: 45px;
+    font-weight: 400;
+    display: inline;
+    padding: 0 5%;
+    background-color: #393939;
+    color: #FFF;
+}
+
+#discount-text span {
+    font-weight: 700;
+}
+
