@@ -7,8 +7,7 @@ header, .section_hero, footer {
 }
 
 nav h2 a {
-    text-decoration: none;
-    font-size: 33px;
+    font-size: 2rem;
     font-weight: 300;
 }
 
@@ -20,17 +19,17 @@ button {
     background-color: #5BACC3;
     color: #FFF;
     border: none;
-    font-size: 21px;
+    font-size: 1.3rem;
     font-weight: 400;
 }
 
 .product_prices {
     color: #5BACC3;
-    font-size: 33px;
+    font-size: 2rem;
 }
 
 #discount-text {
-    font-size: 45px;
+    font-size: 2.8rem;
     font-weight: 400;
     display: inline;
     padding: 0 5%;

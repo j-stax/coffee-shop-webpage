@@ -1,28 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
+    margin: 0;
+    padding: 0;
+    color: #393939;
     font-family: 'Open sans';
     font-weight: 400;
 }
 
 nav a {
-    font-size: 21px;
+    font-size: 1.3rem;
     font-weight: 400;
+    text-decoration: none;
 }
 
 ul {
     list-style-type: none;
 }
 
-h1, h2 {
-    font-size: 60px;
+h1, h2, h1 > a, h2 > a {
+    font-size: 3.75rem;
     font-weight: 300;
 }
 
 h3 {
-    font-size: 33px;
+    font-size: 2rem;
     font-weight: 300;
 }
 
 p {
-    font-size: 18px;
+    font-size: 1.05rem;
     font-weight: 400;
 }
